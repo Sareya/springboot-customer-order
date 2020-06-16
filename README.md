@@ -1,6 +1,11 @@
 # springboot-customer-order
 Spring boot application
 
+# Instructions to run project using docker
+1- cd to docker in project root directory
+2- run "docker build -t spring-app ."
+3- run "docker run -p 8080:8080 spring-app"
+
 # Instructions to run project using java and maven 
 1- cd to project root directory
 2- run "mvn clean install" to build project
