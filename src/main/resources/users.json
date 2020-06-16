@@ -1,0 +1,28 @@
+[
+	{
+		"username" : "admin",
+		"password" : "admin",
+		"adminSecretKey" : "verysecretkey",
+		"role" : "ADMIN"
+	},
+
+	{
+		"username" : "sqayyum",
+		"password" : "sareya1234",
+		"fullname" : "Sareya Qayyum",
+		"gender" : "FEMALE",
+		"address" : "Karosenkatu 3B, 33710, Tampere, Finland",
+		"phone": "+358 45 1234567",
+		"orders": []
+	},
+	
+	{
+		"username" : "richard",
+		"password" : "richard1234",
+		"fullname" : "Richard Sarella",
+		"gender" : "MALE",
+		"address" : "Insinoorinkatu, 33720, Tampere, Finland",
+		"phone": "+358 45 1234567",
+		"orders": []
+	}
+]
